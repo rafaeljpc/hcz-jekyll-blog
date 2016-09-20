@@ -1,18 +1,14 @@
 [
   {
     "icon": "fa-facebook",
-    "link": ""
+    "link": "https://www.facebook.com/rafaeljpc"
   },
   {
     "icon": "fa-twitter",
-    "link": ""
+    "link": "https://twitter.com/rafaeljpc"
   },
   {
     "icon": "fa-linkedin",
-    "link": ""
-  },
-  {
-    "icon": "fa-stack-exchange",
-    "link": ""
+    "link": "https://www.linkedin.com/in/rafael-correia-0b74bb108"
   }
 ]
