@@ -19,11 +19,12 @@
     "text": "Resume",
     "url": "#",
     "icon": "fa-graduation-cap",
+    "url": "/resume/",
     "layout": "post"
   },
   {
     "text": "Github",
-    "url": "",
+    "url": "https://github.com/rafaeljpc",
     "icon": "fa-github"
   },
   {

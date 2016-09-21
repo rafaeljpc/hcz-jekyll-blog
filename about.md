@@ -4,6 +4,7 @@ title: About
 permalink: /about/
 ---
 
+![Rafael Correia](/static/img/foto_linkedin.jpg)
 Hi!!!
 
 My name is Rafael José Peres Correia. I'm a Game and Software developer. This is my portfolio.
