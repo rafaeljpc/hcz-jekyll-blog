@@ -10,5 +10,9 @@
   {
     "icon": "fa-linkedin",
     "link": "https://www.linkedin.com/in/rafael-correia-0b74bb108"
+  },
+  {
+    "icon": "fa-envelope",
+    "link": "mailto:rafaeljpc@gmail.com"
   }
 ]
