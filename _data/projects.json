@@ -1,10 +1,38 @@
 [
 	{
-		"name": "Cool project 1",
-		"image": "placeholder.jpg",
-		"url": "#",
-		"date": "Jan 2014",
-		"tags": ["Angular JS","API"]
+		"name": "NanoEarth Arena (SAGA course project)",
+		"image": "nanoeartharena.png",
+		"url": "https://www.dropbox.com/s/e5du74556ajavby/NE-0.0.2.zip?dl=1",
+		"date": "2016-Feb",
+		"tags": ["Unreal 4 Engine", "SAGA Playgame"]
+	},
+	{
+		"name": "Señor Emilio (Ludum Dare 36)",
+		"image": "senor-emilio.png",
+		"url": "https://uspgamedev.org/senor-emilio/",
+		"date": "2016-Aug",
+		"tags": ["Godot Engine", "ludum-dare", "uspgamedev"]
+	},
+	{
+		"name": "Free Hugs (SPJam 2016)",
+		"image": "free-hugs.png",
+		"url": "http://www.spjam.com.br/hackathon/free_hugs",
+		"date": "2016-Sep",
+		"tags": ["Unreal 4 Engine", "sp-jam"]
+	},
+	{
+		"name": "Frozen Flame (Global Game Jam 2017)",
+		"image": "frozen-flame.png",
+		"url": "http://globalgamejam.org/2017/games/frozen-flame",
+		"date": "2017-Jan",
+		"tags": ["Godot Engine", "global-game-jam", "uspgamedev"]
+	},
+	{
+		"name": "Backdoor",
+		"image": "uspgamedev_wiki.png",
+		"url": "https://uspgamedev.org/wiki/Backdoor",
+		"date": "On going",
+		"tags": ["Godot Engine", "uspgamedev"]
 	}
 
 ]
