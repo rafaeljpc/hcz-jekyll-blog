@@ -5,6 +5,8 @@ logo: "https://secure.gravatar.com/avatar/2731c601d40345f7afb9027e41110312?size=
 github: https://github.com/rafaeljpc
 about: Game and Software developer
 
+allowsearch: true
+
 baseurl: ""
 url: "https://rafaeljpc.github.io/"
 
