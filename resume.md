@@ -35,12 +35,12 @@ Geo-science and Exact Science Institute ([IGCE](http://igce.rc.unesp.br/))
 
 ### VR Development
 * **Company** - [MedRoom](http://www.medroom.com.br/en-us.html)
-* **Duration** - 2016-Nov to _Now_
-* **Description** - VR Medic Training using Unreal 4
+* **Duration** - 2016-Out to 2018-Nov
+* **Description** - VR Medic Training using Unreal Engine 4
 
 ### Software Development
 * **Company** - [24Bes](http://www.24bes.com/)
-* **Duration** - 2016-Aug to 2016-Nov
+* **Duration** - 2016-Aug to 2016-Out
 * **Description** - E-commerce development using PHP and OpenCart Framework
 
 ### Game Development
