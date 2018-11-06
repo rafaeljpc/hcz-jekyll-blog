@@ -16,7 +16,7 @@
 	{
 		"name": "Free Hugs (SPJam 2016)",
 		"image": "free-hugs.png",
-		"url": "https://dl.dropboxusercontent.com/u/5981929/free-hugs-1.0.0.zip",
+		"url": "https://www.dropbox.com/s/nhl3m3hyixeygbb/free-hugs-1.0.0.zip?dl=0",
 		"date": "2016-Sep",
 		"tags": ["Unreal 4 Engine", "sp-jam"]
 	},
@@ -31,15 +31,15 @@
 		"name": "Backdoor",
 		"image": "uspgamedev_wiki.png",
 		"url": "https://uspgamedev.org/wiki/Backdoor",
-		"date": "On going",
+		"date": "2017-Fev",
 		"tags": ["Godot Engine", "uspgamedev"]
 	},
 	{
 		"name": "MedRoom",
 		"image": "medroom.png",
 		"url": "http://medroom.com.br",
-		"date": "On going",
-		"tags": ["Unreal 4 Engine", "medroom", "Virtual Reality", "E-Learning"]
+		"date": "Until 2018-Nov",
+		"tags": ["Unreal 4 Engine", "medroom", "Virtual Reality"]
 	}
 
 ]
